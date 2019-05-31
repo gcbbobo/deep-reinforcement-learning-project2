@@ -1,4 +1,4 @@
-# deep-reinforcement-learning-project1
+# deep-reinforcement-learning-project2
 ###########################################################################################
 
 All the links below are listed without asking for permission. Any owner of the resources/ author of the articles
@@ -10,7 +10,7 @@ My email address is: freedomgu@foxmail.com. Apologize for any inconvenience in a
 ## 1. The Environment
 The physical model of the problem is a double-jointed arm which is designed to move to target locations. The states are the 26 physical states of the system, and the control inputs are torque applicable to two joints. The figure below shows a multi-agent case. To simplify the problem, only the single agent case is considered. 
 
-![image](https://github.com/gcbbobo/deep-reinforcement-learning-project1/blob/master/banana.gif)
+![image](https://github.com/gcbbobo/deep-reinforcement-learning-project2/blob/master/reacher.PNG)
 
 #### Reward:
 Agent's hand in goal location: reward +0.1/each step
