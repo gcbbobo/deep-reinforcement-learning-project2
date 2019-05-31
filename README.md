@@ -8,7 +8,7 @@ My email address is: freedomgu@foxmail.com. Apologize for any inconvenience in a
 
 ###########################################################################################
 ## 1. The Environment
-The physical model of the problem is a double-jointed arm which is designed to move to target locations. The states are the 26 physical states of the system, and the control inputs are torque applicable to two joints. The figure below shows a multi-agent case. To simplify the problem, only the single agent case is considered. 
+The physical model of the problem is a double-jointed arm which is designed to move to target locations. The states are the 33 physical states of the system, and the control inputs are torque applicable to two joints. The figure below shows a multi-agent case. To simplify the problem, only the single agent case is considered. 
 
 ![image](https://github.com/gcbbobo/deep-reinforcement-learning-project2/blob/master/reacher.PNG)
 
