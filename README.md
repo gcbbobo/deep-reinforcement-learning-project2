@@ -155,7 +155,7 @@ Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Re
 ## 3.Instructions
 The following codes are developed based on the sample codes provided by Udacity.
 
-In sol_actor_critic,
+In sol_actor_critic:
 
 Continuous_Control_actor_critic_linux.ipynb + ddpg_agent.py + model.py : Vanilla Actor-Critic
 
@@ -165,7 +165,7 @@ linux/unix: Run Continuous_Control_actor_critic_linux.ipynb to see the results.
 
 windows: Run Continuous_Control_actor_critic_local.ipynb.
 
-In sol_actor_critic_with_batch_normalization,
+In sol_actor_critic_with_batch_normalization:
 
 Continuous_Control_actor_critic_with_batch_normalization_linux.ipynb + ddpg_agent.py + model.py : Actor-Critic with batch normalization
 
@@ -175,5 +175,9 @@ linux/unix: Run Continuous_Control_actor_critic_with_batch_normalization_linux.i
 
 windows: Run Continuous_Control_actor_critic_with_batch_normalization_local.ipynb.
 
+Something I have to mention here: 
 
+In sol_PPO:
+
+Continuous_Control_PPO.ipynb and the rest files try to solve the task with PPO. However, I failed in solving this with PPO and I am still working on it. Anyone interested can have a look at the structure though the agent does not learn anything with existed settings.  If you find something may help, just feel free to contact me through Email: freedomgu@foxmail.com. Any idea or discussion is appreciated.
 
