@@ -132,4 +132,25 @@ https://drive.google.com/file/d/1eguoN8lslH5qmRKJoBGKoyyVSSnH835E/view?usp=shari
 ## 3.Instructions
 The following codes are developed based on the sample codes provided by Udacity.
 
+In sol_actor_critic,
+
+Continuous_Control_actor_critic_linux.ipynb + ddpg_agent.py + model.py : Vanilla Actor-Critic
+
+Continuous_Control_actor_critic_local.ipynb + ddpg_agent.py + model.py : Vanilla Actor-Critic
+
+linux/unix: Run Continuous_Control_actor_critic_linux.ipynb to see the results.
+
+windows: Run Continuous_Control_actor_critic_local.ipynb.
+
+In sol_actor_critic_with_batch_normalization,
+
+Continuous_Control_actor_critic_with_batch_normalization_linux.ipynb + ddpg_agent.py + model.py : Actor-Critic with batch normalization
+
+Continuous_Control_actor_critic_with_batch_normalization_local.ipynb + ddpg_agent.py + model.py : Actor-Critic with batch normalization
+
+linux/unix: Run Continuous_Control_actor_critic_with_batch_normalization_linux.ipynb to see the results.
+
+windows: Run Continuous_Control_actor_critic_with_batch_normalization_local.ipynb.
+
+
 
